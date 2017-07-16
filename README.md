@@ -1,9 +1,9 @@
-#About
+# About
 
 Uses a whitelist and kicks every IP address logged into shell via ssh.
 
 
-#Usage
+# Usage
 
 ./logwarner.sh 8 whitelist.file
 
